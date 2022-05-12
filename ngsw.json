@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1652358868150,
-  "index": "https://r00ster.github.io/movie-search/index.html",
+  "timestamp": 1652359044036,
+  "index": "https://r00ster.github.io/moviesearch//index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://r00ster.github.io/movie-search/593.594f7f702bcd1fe9.js",
-        "https://r00ster.github.io/movie-search/favicon.ico",
-        "https://r00ster.github.io/movie-search/index.html",
-        "https://r00ster.github.io/movie-search/main.19d64b56c1711682.js",
-        "https://r00ster.github.io/movie-search/manifest.webmanifest",
-        "https://r00ster.github.io/movie-search/polyfills.3dd3da53384256e5.js",
-        "https://r00ster.github.io/movie-search/runtime.9bfd922aa8d40101.js",
-        "https://r00ster.github.io/movie-search/styles.be55afb9062c95fb.css"
+        "https://r00ster.github.io/moviesearch//593.594f7f702bcd1fe9.js",
+        "https://r00ster.github.io/moviesearch//favicon.ico",
+        "https://r00ster.github.io/moviesearch//index.html",
+        "https://r00ster.github.io/moviesearch//main.19d64b56c1711682.js",
+        "https://r00ster.github.io/moviesearch//manifest.webmanifest",
+        "https://r00ster.github.io/moviesearch//polyfills.3dd3da53384256e5.js",
+        "https://r00ster.github.io/moviesearch//runtime.9bfd922aa8d40101.js",
+        "https://r00ster.github.io/moviesearch//styles.be55afb9062c95fb.css"
       ],
       "patterns": []
     },
@@ -30,42 +30,42 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://r00ster.github.io/movie-search/assets/icons/favicon-16x16.png",
-        "https://r00ster.github.io/movie-search/assets/icons/favicon.ico",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-128x128.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-144x144.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-152x152.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-192x192.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-384x384.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-48x48.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-512x512.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-72x72.png",
-        "https://r00ster.github.io/movie-search/assets/icons/icon-96x96.png"
+        "https://r00ster.github.io/moviesearch//assets/icons/favicon-16x16.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/favicon.ico",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-128x128.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-144x144.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-152x152.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-192x192.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-384x384.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-48x48.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-512x512.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-72x72.png",
+        "https://r00ster.github.io/moviesearch//assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://r00ster.github.io/movie-search/593.594f7f702bcd1fe9.js": "58774732bd30769b556543d4716c343136e06d8c",
-    "https://r00ster.github.io/movie-search/assets/icons/favicon-16x16.png": "d33e09e9b78a3abdeb585b9a6a55e9ffddaf9f4d",
-    "https://r00ster.github.io/movie-search/assets/icons/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-128x128.png": "052a97073165effb16045d0f46b82045db880e3c",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-144x144.png": "ccb111350e2383fd466bd93dec2fe06a23dc1d50",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-152x152.png": "e7ebdf6a068e034d84a79a71f91a463c8a0cf24c",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-192x192.png": "5ce4c6f4eeae89c728942d2d75f268387ba19c8f",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-384x384.png": "1707eb599a73ee919d9653c7aa0c3e035312e1aa",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-48x48.png": "0baf4a5fbf1ff562fb3a38a2a5acdebf19993637",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-512x512.png": "14c8b2e73d57c0d004d59900797bc5f913918e60",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-72x72.png": "d7e37106f85b695f29e29bbad9cd612f8832a12a",
-    "https://r00ster.github.io/movie-search/assets/icons/icon-96x96.png": "32cb799a2f5a63159b60fb55859e893a30f920b6",
-    "https://r00ster.github.io/movie-search/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
-    "https://r00ster.github.io/movie-search/index.html": "2ff5ab886f1097c4d4095cf068c2b422c17023b6",
-    "https://r00ster.github.io/movie-search/main.19d64b56c1711682.js": "a91e867160ae05c381ca0a827a7e906c225d808a",
-    "https://r00ster.github.io/movie-search/manifest.webmanifest": "bfdfe5b7604828b5fc076388b2e3fa7c3b03fb26",
-    "https://r00ster.github.io/movie-search/polyfills.3dd3da53384256e5.js": "7af36edcf987d5c9185a9dc80899ee246b2b0d0f",
-    "https://r00ster.github.io/movie-search/runtime.9bfd922aa8d40101.js": "cebfa1b66eaf114ddc96510fa41f0a60d9f8954b",
-    "https://r00ster.github.io/movie-search/styles.be55afb9062c95fb.css": "382c5f21bd2a660866794eba1411e5f081658ec8"
+    "https://r00ster.github.io/moviesearch//593.594f7f702bcd1fe9.js": "58774732bd30769b556543d4716c343136e06d8c",
+    "https://r00ster.github.io/moviesearch//assets/icons/favicon-16x16.png": "d33e09e9b78a3abdeb585b9a6a55e9ffddaf9f4d",
+    "https://r00ster.github.io/moviesearch//assets/icons/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-128x128.png": "052a97073165effb16045d0f46b82045db880e3c",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-144x144.png": "ccb111350e2383fd466bd93dec2fe06a23dc1d50",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-152x152.png": "e7ebdf6a068e034d84a79a71f91a463c8a0cf24c",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-192x192.png": "5ce4c6f4eeae89c728942d2d75f268387ba19c8f",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-384x384.png": "1707eb599a73ee919d9653c7aa0c3e035312e1aa",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-48x48.png": "0baf4a5fbf1ff562fb3a38a2a5acdebf19993637",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-512x512.png": "14c8b2e73d57c0d004d59900797bc5f913918e60",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-72x72.png": "d7e37106f85b695f29e29bbad9cd612f8832a12a",
+    "https://r00ster.github.io/moviesearch//assets/icons/icon-96x96.png": "32cb799a2f5a63159b60fb55859e893a30f920b6",
+    "https://r00ster.github.io/moviesearch//favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
+    "https://r00ster.github.io/moviesearch//index.html": "e44325c937b133985461cec40c339bdb6f651204",
+    "https://r00ster.github.io/moviesearch//main.19d64b56c1711682.js": "a91e867160ae05c381ca0a827a7e906c225d808a",
+    "https://r00ster.github.io/moviesearch//manifest.webmanifest": "bfdfe5b7604828b5fc076388b2e3fa7c3b03fb26",
+    "https://r00ster.github.io/moviesearch//polyfills.3dd3da53384256e5.js": "7af36edcf987d5c9185a9dc80899ee246b2b0d0f",
+    "https://r00ster.github.io/moviesearch//runtime.9bfd922aa8d40101.js": "cebfa1b66eaf114ddc96510fa41f0a60d9f8954b",
+    "https://r00ster.github.io/moviesearch//styles.be55afb9062c95fb.css": "382c5f21bd2a660866794eba1411e5f081658ec8"
   },
   "navigationUrls": [
     {
