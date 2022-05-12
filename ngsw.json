@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1652366628221,
+  "timestamp": 1652385171267,
   "index": "https://r00ster.github.io/movie-search/index.html",
   "assetGroups": [
     {
@@ -60,7 +60,7 @@
     "https://r00ster.github.io/movie-search/assets/icons/icon-72x72.png": "d7e37106f85b695f29e29bbad9cd612f8832a12a",
     "https://r00ster.github.io/movie-search/assets/icons/icon-96x96.png": "32cb799a2f5a63159b60fb55859e893a30f920b6",
     "https://r00ster.github.io/movie-search/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
-    "https://r00ster.github.io/movie-search/index.html": "9db5f03c745cde86cce8d04fd41a28c93aad6e59",
+    "https://r00ster.github.io/movie-search/index.html": "c3e1914727d027f9442e2abd192a801800392d4e",
     "https://r00ster.github.io/movie-search/main.3ba9756c5112dcd1.js": "4e859c28924a290f915d0d6464b7ea28bb4e9212",
     "https://r00ster.github.io/movie-search/manifest.webmanifest": "bfdfe5b7604828b5fc076388b2e3fa7c3b03fb26",
     "https://r00ster.github.io/movie-search/polyfills.3dd3da53384256e5.js": "7af36edcf987d5c9185a9dc80899ee246b2b0d0f",
