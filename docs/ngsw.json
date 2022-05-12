@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1652385061409,
-  "index": "/index.html",
+  "timestamp": 1652385171267,
+  "index": "https://r00ster.github.io/movie-search/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/593.594f7f702bcd1fe9.js",
-        "/favicon.ico",
-        "/index.html",
-        "/main.3ba9756c5112dcd1.js",
-        "/manifest.webmanifest",
-        "/polyfills.3dd3da53384256e5.js",
-        "/runtime.9bfd922aa8d40101.js",
-        "/styles.be55afb9062c95fb.css"
+        "https://r00ster.github.io/movie-search/593.594f7f702bcd1fe9.js",
+        "https://r00ster.github.io/movie-search/favicon.ico",
+        "https://r00ster.github.io/movie-search/index.html",
+        "https://r00ster.github.io/movie-search/main.3ba9756c5112dcd1.js",
+        "https://r00ster.github.io/movie-search/manifest.webmanifest",
+        "https://r00ster.github.io/movie-search/polyfills.3dd3da53384256e5.js",
+        "https://r00ster.github.io/movie-search/runtime.9bfd922aa8d40101.js",
+        "https://r00ster.github.io/movie-search/styles.be55afb9062c95fb.css"
       ],
       "patterns": []
     },
@@ -30,42 +30,42 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/favicon-16x16.png",
-        "/assets/icons/favicon.ico",
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-48x48.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://r00ster.github.io/movie-search/assets/icons/favicon-16x16.png",
+        "https://r00ster.github.io/movie-search/assets/icons/favicon.ico",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-128x128.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-144x144.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-152x152.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-192x192.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-384x384.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-48x48.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-512x512.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-72x72.png",
+        "https://r00ster.github.io/movie-search/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/593.594f7f702bcd1fe9.js": "58774732bd30769b556543d4716c343136e06d8c",
-    "/assets/icons/favicon-16x16.png": "d33e09e9b78a3abdeb585b9a6a55e9ffddaf9f4d",
-    "/assets/icons/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
-    "/assets/icons/icon-128x128.png": "052a97073165effb16045d0f46b82045db880e3c",
-    "/assets/icons/icon-144x144.png": "ccb111350e2383fd466bd93dec2fe06a23dc1d50",
-    "/assets/icons/icon-152x152.png": "e7ebdf6a068e034d84a79a71f91a463c8a0cf24c",
-    "/assets/icons/icon-192x192.png": "5ce4c6f4eeae89c728942d2d75f268387ba19c8f",
-    "/assets/icons/icon-384x384.png": "1707eb599a73ee919d9653c7aa0c3e035312e1aa",
-    "/assets/icons/icon-48x48.png": "0baf4a5fbf1ff562fb3a38a2a5acdebf19993637",
-    "/assets/icons/icon-512x512.png": "14c8b2e73d57c0d004d59900797bc5f913918e60",
-    "/assets/icons/icon-72x72.png": "d7e37106f85b695f29e29bbad9cd612f8832a12a",
-    "/assets/icons/icon-96x96.png": "32cb799a2f5a63159b60fb55859e893a30f920b6",
-    "/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
-    "/index.html": "6cbb5e4d310df6b2ad82f0567da1fba32cd4bdb5",
-    "/main.3ba9756c5112dcd1.js": "4e859c28924a290f915d0d6464b7ea28bb4e9212",
-    "/manifest.webmanifest": "bfdfe5b7604828b5fc076388b2e3fa7c3b03fb26",
-    "/polyfills.3dd3da53384256e5.js": "7af36edcf987d5c9185a9dc80899ee246b2b0d0f",
-    "/runtime.9bfd922aa8d40101.js": "cebfa1b66eaf114ddc96510fa41f0a60d9f8954b",
-    "/styles.be55afb9062c95fb.css": "382c5f21bd2a660866794eba1411e5f081658ec8"
+    "https://r00ster.github.io/movie-search/593.594f7f702bcd1fe9.js": "58774732bd30769b556543d4716c343136e06d8c",
+    "https://r00ster.github.io/movie-search/assets/icons/favicon-16x16.png": "d33e09e9b78a3abdeb585b9a6a55e9ffddaf9f4d",
+    "https://r00ster.github.io/movie-search/assets/icons/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-128x128.png": "052a97073165effb16045d0f46b82045db880e3c",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-144x144.png": "ccb111350e2383fd466bd93dec2fe06a23dc1d50",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-152x152.png": "e7ebdf6a068e034d84a79a71f91a463c8a0cf24c",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-192x192.png": "5ce4c6f4eeae89c728942d2d75f268387ba19c8f",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-384x384.png": "1707eb599a73ee919d9653c7aa0c3e035312e1aa",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-48x48.png": "0baf4a5fbf1ff562fb3a38a2a5acdebf19993637",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-512x512.png": "14c8b2e73d57c0d004d59900797bc5f913918e60",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-72x72.png": "d7e37106f85b695f29e29bbad9cd612f8832a12a",
+    "https://r00ster.github.io/movie-search/assets/icons/icon-96x96.png": "32cb799a2f5a63159b60fb55859e893a30f920b6",
+    "https://r00ster.github.io/movie-search/favicon.ico": "0006977daf7cae7cfaafb3987e891d09d26276e7",
+    "https://r00ster.github.io/movie-search/index.html": "c3e1914727d027f9442e2abd192a801800392d4e",
+    "https://r00ster.github.io/movie-search/main.3ba9756c5112dcd1.js": "4e859c28924a290f915d0d6464b7ea28bb4e9212",
+    "https://r00ster.github.io/movie-search/manifest.webmanifest": "bfdfe5b7604828b5fc076388b2e3fa7c3b03fb26",
+    "https://r00ster.github.io/movie-search/polyfills.3dd3da53384256e5.js": "7af36edcf987d5c9185a9dc80899ee246b2b0d0f",
+    "https://r00ster.github.io/movie-search/runtime.9bfd922aa8d40101.js": "cebfa1b66eaf114ddc96510fa41f0a60d9f8954b",
+    "https://r00ster.github.io/movie-search/styles.be55afb9062c95fb.css": "382c5f21bd2a660866794eba1411e5f081658ec8"
   },
   "navigationUrls": [
     {
