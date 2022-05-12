@@ -2,23 +2,11 @@ import { Component, HostBinding, OnInit } from '@angular/core';
 import { ColorModeService } from './services/color-mode.service';
 import { Observable, Observer, fromEvent, merge } from 'rxjs';
 import { map } from 'rxjs/operators';
-import { trigger, style, transition, animate } from '@angular/animations';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
-  animations: [
-    trigger('grow', [
-      transition(':enter', [
-        style({ height: '0', overflow: 'hidden' }),
-        animate(500, style({ height: '*' }))
-      ]),
-      transition(':leave', [
-        animate(500, style({ height: 0, overflow: 'hidden' }))
-      ])
-    ])
-  ]
 })
 
 export class AppComponent implements OnInit {

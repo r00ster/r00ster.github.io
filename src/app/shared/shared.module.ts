@@ -7,6 +7,8 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { MatSidenavModule } from '@angular/material/sidenav';
+import { OfflineBannerComponent } from './components/offline-banner/offline-banner.component';
+import { PageNotFoundComponent } from './components/page-not-found/page-not-found.component';
 
 
 
@@ -14,6 +16,8 @@ import { MatSidenavModule } from '@angular/material/sidenav';
   declarations: [
     FooterComponent,
     HeaderComponent,
+    OfflineBannerComponent,
+    PageNotFoundComponent,
   ],
   imports: [
     CommonModule,
@@ -26,6 +30,8 @@ import { MatSidenavModule } from '@angular/material/sidenav';
   exports: [
     HeaderComponent,
     FooterComponent,
+    OfflineBannerComponent,
+    PageNotFoundComponent,
   ]
 })
 export class SharedModule { }
